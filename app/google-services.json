@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946141448666",
+    "firebase_url": "https://everwallet-2.firebaseio.com",
+    "project_id": "everwallet-2",
+    "storage_bucket": "everwallet-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946141448666:android:82e7964df0b70ac5",
+        "android_client_info": {
+          "package_name": "com.everwallet.everwalletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946141448666-jq7mki2hrbl19sanabnhgc42rro8d6ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34ZBy1n4PiR9f9ST_Q2aH-wTtwys2b0E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

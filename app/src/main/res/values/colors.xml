@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#192942</color>
+    <color name="colorPrimaryDark">#081427</color>
+    <color name="colorAccent">#ff4700</color>
+    <color name="white">#fff</color>
+    <color name="hintclr">#a7a5a5</color>
+    <color name="back">#333333</color>
+
+    <color name="backClr">#484848</color>
+    <color name="orange">#ff4700</color>
+    <color name="black">#000</color>
+    <color name="offwhite">#F5F4F4</color>
+    <color name="navColor">@color/colorPrimary</color>
+    <color name="navHomeClr">#66e4cc</color>
+    <color name="navPostClr">#f5a81c</color>
+    <color name="navMyadsClr">#a4b34a</color>
+    <color name="navMyaccClr">#8cc857</color>
+</resources>
